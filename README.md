@@ -1,2 +1,2 @@
-# PGK-Project
-Podstawy Grafiki Komputerowej - projekt 2022
+# Wizualizacja Krzywych Lissajous - projekt 2022
+
