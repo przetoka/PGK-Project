@@ -7,7 +7,15 @@
 3. Curve rotation panel
 4. Fields for entering animation type (static or animated)
 5. Fields for entering drawing type (curves or points)
-6. Fields for entering parametrization type
+6. Fields for entering parametrization type (polar or cartesian coordinates)
 
-### Sample program results
+### Exemplary program results
+![pre_rotacja](./pre_rotacja.png)
+A regular curve before rotation
+![after_rotacja](./rotacja.png)
+A regular curve after rotation
 ![biegunowe](./biegunowe.png)
+A curve drawn using polar coordinates
+![animacja](./animacja.png)
+Animated curve
+
