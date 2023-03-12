@@ -10,12 +10,12 @@
 6. Fields for entering parametrization type (polar or cartesian coordinates)
 
 ### Exemplary program results
-![pre_rotacja](./pre_rotacja.png)
+![pre_rotation](./pre_rotacja.png)
 A regular curve before rotation
-![after_rotacja](./rotacja.png)
+![after_rotation](./rotacja.png)
 A regular curve after rotation
-![biegunowe](./biegunowe.png)
+![polar](./biegunowe.png)
 A curve drawn using polar coordinates
-![animacja](./animacja.png)
+![animation](./animation.gif)
 Animated curve
 
